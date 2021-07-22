@@ -1,10 +1,8 @@
-module.exports = {
-  generateMarkdown: (data) => {
-    return `
-# ${data.title}
+
+# The Josh Nolan Project
 
 ## Description
-${data.description}
+It's cool
 
 ## Table of Contents
 - [Installation](#installation)
@@ -15,22 +13,19 @@ ${data.description}
 - [Questions](#questions)
 
 ## Installation
-${data.installation}
+do this than that
 
 ## Usage
-${data.usage}
+no
 
 ## License
-${data.license}
+MIT
 
 ## Contributing
-${data.contributing}
+me
 
 ## Tests
-${data.tests}
+do a test
 
 ## Questions
-${data.questions}
-`
-  }
-}
+okay
