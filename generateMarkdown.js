@@ -26,7 +26,14 @@ module.exports = {
 ${answers.description}
 
 ## Table of Contents
-${answers.table}
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
+
+
 
 ## Installation
 ${answers.installation}
