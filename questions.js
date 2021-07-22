@@ -30,7 +30,7 @@ module.exports = {
             type: 'list',
             message: 'Provide a list of Licenses.',
             name: 'license',
-            choices: ['MIT','BSD','The Unlicense']
+            choices: ['MIT','BSD','The Unlicense', 'None']
 
         },
         {
