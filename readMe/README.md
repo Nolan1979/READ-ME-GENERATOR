@@ -1,8 +1,8 @@
 
-# The Alan Parsons
+# README Generator
 
 ## Description
-It's a cool project!
+This app generates a README for your project
 
 ## Table of Contents
 - [Installation](#installation)
@@ -13,19 +13,19 @@ It's a cool project!
 - [Questions](#questions)
 
 ## Installation
-First you do this, then you do that
+Provide a detailed list of instructions for install
 
 ## Usage
-It can be used in x amount of ways
+Provide instructions on how to use the project
 
 ## License
-![GitHub license](https://img.shields.io/badge/license-BSD-blue.svg)
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Contributing
-I'd like to thank the all mighty
+Provide external resources that you used for your project
 
 ## Tests
-Push it down the stairs. See what happens
+Writes tests and explain how to run tests for your project
 
 ## Questions
-Having an issue? Email me with any questions about the app 123fakeemail@gmail.com
+Having an issue? Email me with any questions about the app 123fakecontact@gmail.com
