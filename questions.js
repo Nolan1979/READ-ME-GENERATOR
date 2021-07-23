@@ -28,14 +28,14 @@ module.exports = {
         },
         {
             type: 'list',
-            message: 'Provide a list of Licenses.',
+            message: 'Choose a Licenses.',
             name: 'license',
             choices: ['MIT','BSD','The Unlicense', 'None']
 
         },
         {
             type: 'input',
-            message: 'List your Contributors.',
+            message: 'List your Contributors. This includes any third-party plug-in or tutorial',
             name: 'contributing',
         },
         {
@@ -45,7 +45,7 @@ module.exports = {
         },
         {
             type: 'input',
-            message: 'Add a Questions section.',
+            message: 'Enter your email and Github username',
             name: 'questions',
         },
     ]

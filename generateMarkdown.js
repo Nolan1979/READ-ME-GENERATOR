@@ -55,7 +55,7 @@ ${data.contributing}
 ${data.tests}
 
 ## Questions
-${data.questions}
+Having an issue? Email me with any questions about the app ${data.questions}
 `
   }
 }
